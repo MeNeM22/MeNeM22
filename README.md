@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **web design**
 
-- 💬 Ask me about **C++, HTML, CSS.**
+- 💬 Ask me about **C++, HTML, CSS, JS, Go.**
 
 - 📫 How to reach me **menechino.agustin22@gmail.com**
 
