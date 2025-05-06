@@ -1,4 +1,4 @@
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=menem22&label=Profile%20views&color=0e75b6&style=flat" alt="menem22" /> </p>
 <h1 align="center">Hi 👋, I'm Menechino Agustin</h1>
 <p align="center">
 	<a href="https://github.com/Bouaskaoun">
@@ -6,7 +6,7 @@
 	</a>
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=menem22&label=Profile%20views&color=0e75b6&style=flat" alt="menem22" /> </p>
+
 
 -🎓 I'm currently studying Computer Engineering and Electronics technician.  
 
@@ -34,9 +34,10 @@
 <img src="https://img.shields.io/badge/PlatformIO-%23222.svg?style=for-the-badge&logo=platformio&logoColor=%23f5822a" alt="C badge" />
 <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="C badge" />
 <img src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" alt="C badge" />
+	
 </p>
 
 ![MeNeM22 github stats](https://github-readme-stats.vercel.app/api?username=MeNeM22&show_icons=true&theme=tokyonight)
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AkuraDiary&theme=tokyonight" alt="mystreak"/>
 ![MeNeM22 Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MeNeM22&theme=tokyonight&layout=compact)
+
 
