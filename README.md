@@ -7,16 +7,21 @@
 </p>
 
 
+<p align="center">
+🎓 I'm currently studying Computer Engineering and Electronics technician.  
+</p>
+<p align="center">
+🚀 I'm actively looking for new opportunities in different areas. 
+</p>
+<p align="center">
+💪 I'm consistent, determined, and always eager to grow
+</p>
 
--🎓 I'm currently studying Computer Engineering and Electronics technician.  
 
--🚀 I'm actively looking for new opportunities in different areas. 
+<h3 align="center">Languages:</h3>
 
--💪 I'm consistent, determined, and always eager to grow
 
-<h3 align="left">Languages:</h3>
-
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
@@ -29,36 +34,40 @@
   <img src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white" alt="C badge" />
 </p>
 
-<hr width="36%" >
+<hr width="100%" >
 
-<h3 align="left">IDE:</h3>
-<p align="left">
+<h3 align="center">IDE:</h3>
+<p align="center">
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="C badge" />
   <img src="https://img.shields.io/badge/PlatformIO-%23222.svg?style=for-the-badge&logo=platformio&logoColor=%23f5822a" alt="C badge" />
   <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"
 </p>
 	
-<hr width="36%" >
+<hr width="100%" >
 
-<h3 align="left">Data Base:</h3>
-<p align="left">
+<h3 align="center"">Data Base:</h3>
+<p align="center">
 <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"/>
 </p>
 
-<hr width="36%" >
+<hr width="100%" >
 
-<h3 align="left">Tools:</h3>
-<p align="left">
+<h3 align="center">Tools:</h3>
+<p align="center">
 <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="C badge" />
 <img src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" alt="C badge" />	
 </p>
 
-<hr width="36%" >
+<hr width="100%" >
+<div align="center">
 
-![MeNeM22 github stats](https://github-readme-stats.vercel.app/api?username=MeNeM22&show_icons=true&theme=tokyonight)
-![MeNeM22 Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MeNeM22&theme=tokyonight&layout=compact)
+  ![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=MeNeM22&theme=tokyonight&layout=compact&hide_border=true)
+  
+  ![Estadísticas GitHub](https://github-readme-stats.vercel.app/api?username=MeNeM22&show_icons=true&theme=tokyonight&hide_border=true)
 
-<hr width="36%" >
-
+</div>
+<hr width="100%" >
+<p align="center">
 <img href="https://www.linkedin.com/in/agustin-francisco-menechino-castro-b0362323a/" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</p>
