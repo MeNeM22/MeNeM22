@@ -29,17 +29,23 @@
   <img src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white" alt="C badge" />
 </p>
 
+<hr width="36%" >
+
 <h3 align="left">IDE:</h3>
 <p align="left">
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="C badge" />
   <img src="https://img.shields.io/badge/PlatformIO-%23222.svg?style=for-the-badge&logo=platformio&logoColor=%23f5822a" alt="C badge" />
   <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"
 </p>
+	
+<hr width="36%" >
 
 <h3 align="left">Data Base:</h3>
 <p align="left">
 <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"/>
 </p>
+
+<hr width="36%" >
 
 <h3 align="left">Tools:</h3>
 <p align="left">
@@ -48,7 +54,11 @@
 <img src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" alt="C badge" />	
 </p>
 
+<hr width="36%" >
+
 ![MeNeM22 github stats](https://github-readme-stats.vercel.app/api?username=MeNeM22&show_icons=true&theme=tokyonight)
 ![MeNeM22 Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MeNeM22&theme=tokyonight&layout=compact)
 
+<hr width="36%" >
 
+<img href="https://www.linkedin.com/in/agustin-francisco-menechino-castro-b0362323a/" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
