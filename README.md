@@ -16,10 +16,8 @@
 <p align="center">
 💪 I'm consistent, determined, and always eager to grow
 </p>
-
-
+<hr width="100%" >
 <h3 align="center">Languages:</h3>
-
 
 <p align="center">
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
@@ -34,8 +32,6 @@
   <img src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white" alt="C badge" />
 </p>
 
-<hr width="100%" >
-
 <h3 align="center">IDE:</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="C badge" />
@@ -43,14 +39,10 @@
   <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"
 </p>
 	
-<hr width="100%" >
-
 <h3 align="center"">Data Base:</h3>
 <p align="center">
 <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"/>
 </p>
-
-<hr width="100%" >
 
 <h3 align="center">Tools:</h3>
 <p align="center">
@@ -67,7 +59,6 @@
   ![Estadísticas GitHub](https://github-readme-stats.vercel.app/api?username=MeNeM22&show_icons=true&theme=tokyonight&hide_border=true)
 
 </div>
-<hr width="100%" >
 <p align="center">
 <img href="https://www.linkedin.com/in/agustin-francisco-menechino-castro-b0362323a/" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </p>
